@@ -9,7 +9,9 @@ import b4 from "../../image/Banner Pricing.png";
 import { Link } from "react-router-dom";
 
 function HomeSection() {
-  return <></>;
+  return <>
+  fsdfsdfsdfsdfsdfsdfsdfsdfffdgf
+  </>;
 }
 
 export default HomeSection;
